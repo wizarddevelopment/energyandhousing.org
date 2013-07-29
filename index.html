@@ -1,13 +1,16 @@
 ---
 layout: default
-title: Energy and Housing Consortium
+title: Energy and Housing
 ---
 
 <div id="home">
-  <h1>Energy and Housing Consortium</h1>
+  <h1>Latest News</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+			<div id="post">
+				{{post.content}}
+      </div>
     {% endfor %}
   </ul>
 </div>
