@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Energy and Housing"
+title:  About Energy and Housing
 date:   2013-07-28 13:43:09
 categories:
 ---
 
 # The Energy and Housing Program
 
-The Energy and Housing Program is a new initiative. Our initial efforts will be to address electric energy issues in New York City and how smart grids and smart meter systems should help residents.
+The Energy and Housing Program is an initiative to address the problems of energy use by the resident in multifamily residential properties in New York City. It's our belief that by using new technologies, individual residents can gain more control of their energy use, thereby saving natural resources and money. This will include addressing electricity, heating, water and communications. Our initial focus will be to address electric energy issues in New York City and how smart grids and smart meter systems should help residents.
 
 # Background
 
-There are approximately 3 million housing units in NYC. These are mostly composed of rental, cooperatives, condominium, 1-3 family homes. Each home has an energy budget that can include electricity, water, gas, oil and communication components. A major component is the use of electricity.
+There are approximately 3 million housing units in NYC. These are mostly composed of rental, cooperatives, condominium, 1-3 family homes. Each residential unit has an energy budget that can include electricity, water, gas, oil and communication components. The water supply is a basic commodity and is under the control of New York City. The City has spent several decades upgrading an old system that had not been well maintained. The result has been the creation of a first class drinking water that is better than all bottled water. In addition, all residential buildings now have automated water meter reading systems that were installed to allow meter reading from the street.
 
 The residential sector accounts for about 32% of New York City’s electricity consumption and more than 50% in all boroughs except Manhattan. NYC residents in the 3 million housing units should be able to able to actively participate in conservation and load management programs.
 
@@ -31,13 +31,13 @@ Our initial effort is to focus on electricity and examine how NYC residents can 
 
 # Policy Priorities
 
-1.  Conduct research, sponsor symposia and assist in the education of the public focusing on the following issues:
+Conduct research, sponsor symposia and assist in the education of the public focusing on the following issues:
 
-2.  The technologies to allow residents to understand and control their electric use are in a state of active development. Smart meter systems are evolving rapidly and offer the best chance of success. However, their usability by housing residents needs to be improved.
+1.  The technologies to allow residents to understand and control their electric use are in a state of active development. Smart meter systems are evolving rapidly and offer the best chance of success. However, their usability by housing residents needs to be improved.
 
-3.  NYC and PSC law / regulations are not finalized on what kinds of smart meter systems are best applicable in NYC, and on the kinds of regulations that would allow active participation by residents and originations representing residents such as cooperatives, ESCOs, rental properties, and other categories.
+2.  NYC and PSC law / regulations are not finalized on what kinds of smart meter systems are best applicable in NYC, and on the kinds of regulations that would allow active participation by residents and originations representing residents such as cooperatives, ESCOs, rental properties, and other categories.
 
-4.  Incentives to accelerate this process are fragmented and/or not “tested”. There are many partial efforts including subsidies, tax credits, tax abatements, sale of savings and the possible use of the DHCR MCI program, or the creation of an a “energy” program similar to the NYC J-51 program.
+3.  Incentives to accelerate this process are fragmented and/or not “tested”. There are many partial efforts including subsidies, tax credits, tax abatements, sale of savings and the possible use of the DHCR MCI program, or the creation of an a “energy” program similar to the NYC J-51 program.
 
 # Thoughts and Ideas
 
